@@ -17,8 +17,8 @@ This system delivers a scalable, maintainable architecture powered by **Clean Ar
 
 * Codebase:
 
-  * Clean Architecture
-  * Domain-Driven Design
+  * Clean Architecture, Domain-Driven Design
+  * State Pattern, Fluent Pattern, Static Factory Method Pattern
   * CQRS at both the Application and Persistence level
   * Synchronous (Mediator) & Asynchronous (Bus) messaging
 * Database:
