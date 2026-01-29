@@ -13,7 +13,7 @@ This system delivers a scalable, maintainable architecture powered by **Clean Ar
 ## Backend
 [Visualization](https://www.tldraw.com/p/zl3h-eJIdeK3e-f9SAYmE?d=v-1359.-236.3182.1926.page)
 
-<img width="2231" height="1503" alt="image" src="https://github.com/user-attachments/assets/3f1986ab-f873-4507-a566-6b145cd273e9" />
+<img width="2256" height="1504" alt="image" src="https://github.com/user-attachments/assets/7d50b829-81b6-4387-932b-29d2a56b8932" />
 
 * Codebase:
 
@@ -39,7 +39,7 @@ This system delivers a scalable, maintainable architecture powered by **Clean Ar
 ## Frontend
 [Visualization](https://www.tldraw.com/p/FmIZo7x3hBGAQH84Dg_eE?d=v-1608.-505.2779.2202.RKL38VRmVGk9ofLDudtZZ)
 
-<img width="2234" height="1503" alt="home" src="https://github.com/user-attachments/assets/9dade414-8020-430c-b87d-b9178268aa7a" />
+<img width="2256" height="1504" alt="image" src="https://github.com/user-attachments/assets/b76d9ffc-92cf-4b18-ab22-bff9db278b3f" />
 
 * Implemented with **React**:
   * Mix of **custom components** and **Shadcn/UI**
